@@ -1,0 +1,91 @@
+[Header]
+Sprites = levels/OUTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "With the great skeleton exploding into a thousand pieces, the coaster was flung into space (maybe bringing space sims into it too)."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = ""
+Text = "Luckily it hit the international space station (yeah, bringing space sims into it too), and the surviving passengers returned to earth as astronaut heroes."
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = ""
+Text = "Stuckmann finally learned what the non-coaster world was like."
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = ""
+Text = "He experienced all its wonders... the beauty of sunrises with your loved ones, the beauty of the wide blue ocean... and the beauty of taxes."
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = ""
+Text = "But also the beauty of cute animals, which didn't exist on the coaster."
+
+[Image 1]
+Group = 1
+Item = 5
+
+[Text 1]
+Speaker = ""
+Text = "And so, Stuckmann decided to visit a certain animal park, but that's an adventure for another time. (Not many loops to get stuck in there.)"
+
+[Image 1]
+Group = 2
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "After all that happened, the Stuckmanns and the two of us, you and me, have learnt a valuable lesson:"
+
+[Text 1]
+Speaker = ""
+Text = "That hard work eventually pays off, even if not immediately apparent."
+
+[Image 1]
+Group = 2
+Item = 1
+
+[Text 1]
+Speaker = ""
+Text = "(This is where you look back at your three shelves that you turned into R*llercoaster Tycoon shelves and shed a single tear of pride in your accomplishments.)"
+
+[Image 1]
+Group = 1
+Item = 6
+
+[Text 1]
+Speaker = ""
+Text = "(And this is also the part where I thank you for playing, thanks a lot!)"
+
+[Text 1]
+Speaker = ""
+Text = "(No really, so much thanks!)"
+
+[Text 1]
+Speaker = ""
+Text = "THE END, AND MAY YOU NOT GET STUCK IN ROLLERCOASTERS AND/OR MANHOLES AND/OR LOOPS"
+
+
+[Title]

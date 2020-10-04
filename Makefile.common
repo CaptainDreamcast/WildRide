@@ -1,0 +1,2 @@
+OBJS = main.o \
+coaster.o finalboss.o gamescreen.o storyscreen.o stuckmann.o tiles.o titlescreen.o

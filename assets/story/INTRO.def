@@ -1,0 +1,194 @@
+[Header]
+Sprites = levels/INTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "I'm sorry to get this personal right off the bat, this intimate, but are you familiar with the R*llercoaster Tycoon series?"
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = ""
+Text = "(At this point you should turn around and look at your three shelves filled with R*llercoaster Tycoon anniversary editions.)"
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = ""
+Text = "(If you don't have three shelves full of them you can plaster something over your regular games or something.)"
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = ""
+Text = "(Or just imagine it I dunno, I just want us to be on the same page here.)"
+
+[Image 1]
+Group = 3
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "Today's story, today's odyssey, is closely related to an experience shared by most R*llercoaster Tycoon enthusiasts, or S*ms, or any simulation game, really:"
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = ""
+Text = "Dan Stuckmann (20) just wanted to forget about his relationship troubles at the local amusement park."
+
+[Image 1]
+Group = 1
+Item = 5
+
+[Text 1]
+Speaker = ""
+Text = "Next thing he knows, he has been stuck on the 'Wild Ride' rollercoaster-"
+
+[Image 1]
+Group = 1
+Item = 6
+
+[Text 1]
+Speaker = ""
+Text = "- for more than 50 years, despite paying only $5 of admission, a steal, really."
+
+[Image 1]
+Group = 1
+Item = 7
+
+[Text 1]
+Speaker = ""
+Text = "Stuckmann and the other passengers were barely surviving off the Amusement Park food they could grab as the coaster whizzes by-"
+
+[Text 1]
+Speaker = ""
+Text = "- reducing their life expectancy to a perfect 80 years."
+
+
+[Image 1]
+Group = 1
+Item = 8
+
+[Text 1]
+Speaker = ""
+Text = "After several years, Stuckmann has a brilliant idea, to hit the same part of the coaster each time he passes it by."
+
+[Image 1]
+Group = 3
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "A year of this continuous assault and the unthinkable happens:"
+
+[Image 1]
+Group = 1
+Item = 9
+
+[Text 1]
+Speaker = ""
+Text = "Stuckmann gets married to another passenger and they have a child, Dan Stuckmann the 2nd, the first true-blood coaster human."
+
+[Image 1]
+Group = 1
+Item = 10
+
+[Text 1]
+Speaker = ""
+Text = "Oh, and the part of the coaster finally breaks, sending the passengers flying to another part of the coaster."
+
+[Image 1]
+Group = 1
+Item = 11
+
+[Text 1]
+Speaker = ""
+Text = "Now it is up Stuckmann the 2nd to continue the legacy, to break free of the coaster... no matter how many years, no matter how many generations it may take!"
+
+[Image 1]
+Group = 2
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "I know this was a lot of deep theme park lore to take in, but it's tutorial time~"
+
+[Image 1]
+Group = 2
+Item = 1
+
+[Text 1]
+Speaker = ""
+Text = "The main goal of the game is to defeat the evil master skeleton that keeps the passengers trapped."
+
+[Image 1]
+Group = 2
+Item = 2
+
+[Text 1]
+Speaker = ""
+Text = "Ah yeah, there's an evil master skeleton that keeps the passengers trapped."
+
+[Image 1]
+Group = 3
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "For this purpose you can damage the coaster repeatedly by hitting A. Hit it three times and whoosh, the cart goes flying in the direction it was moving in."
+
+[Text 1]
+Speaker = ""
+Text = "Hold left to speed up and right to speed down, think of it as the passengers wiggling to influence the speed. Please. Please imagine it like that."
+
+
+[Image 1]
+Group = 2
+Item = 3
+
+[Text 1]
+Speaker = ""
+Text = "Check points don't actually check how you feel or your vibe or anything, they just let you restart from that point after you hit them."
+
+[Image 1]
+Group = 2
+Item = 4
+
+[Text 1]
+Speaker = ""
+Text = "Collect new waggons for new passengers with which to continue your lin-"
+
+[Text 1]
+Speaker = ""
+Text = "Actually this is kinda grim, let's just say collect waggons to extend play time and not think about it."
+
+[Text 1]
+Speaker = ""
+Text = "Talking about grim, you can restart from the last checkpoint if you hit R. Little lifehack, between us gamers."
+
+
+[Image 1]
+Group = 3
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "Good luck out there, I hope that you can hit those rails and don't get... STUCK IN A LOOP, AWW YEAH."
+
+[Title]

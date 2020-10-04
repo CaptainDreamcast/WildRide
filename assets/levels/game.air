@@ -1,0 +1,23 @@
+
+[Begin Action 1]
+-1,0, 0,0, 10
+
+[Begin Action 100]
+100,0, 0,0, 10
+
+[Begin Action 200]
+200,0, 0,0, 10
+
+[Begin Action 300]
+300,0, 0,0, 60
+300,1, 0,0, 60
+300,2, 0,0, 60
+
+[Begin Action 400]
+400,0, 0,0, 10
+
+[Begin Action 401]
+401,0, 0,0, 10
+
+[Begin Action 402]
+402,0, 0,0, 10
